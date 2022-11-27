@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>20764649534-uok2g7ob72th5l0rmsues0abvppn44g5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.20764649534-uok2g7ob72th5l0rmsues0abvppn44g5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA13J_B7HX3-0j6fXVE-2Yhy8o0n0OPRao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>20764649534</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raywenderlich.wonderWords</string>
+	<key>PROJECT_ID</key>
+	<string>wonder-words-c4e3f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wonder-words-c4e3f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:20764649534:ios:4a2ed5718e141e887fc96f</string>
+</dict>
+</plist>
